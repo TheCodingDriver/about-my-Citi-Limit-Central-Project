@@ -1,4 +1,4 @@
-imit Central – Market Risk Limits Management Platform
+Limit Central – Market Risk Limits Management Platform
 
 "At Citi, I worked on a project called Limit Central, which is a centralized platform for managing and monitoring market risk limits associated with Front Office trading activities.
 
